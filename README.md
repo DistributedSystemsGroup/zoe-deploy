@@ -1,6 +1,8 @@
 # Zoe Deploy
 This repository explains how to install [zoe](https://github.com/DistributedSystemsGroup/zoe) by deployment scripts.
 
+**This repository is no longer maintained**
+
 Installing Zoe
 ==============
 
